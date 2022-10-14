@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ahmad</h1>
-<h3 align="center">Console.log(A passionate Full Stack developer)</h3>
+<h3 align="center">Console.log(A passionate Full Stack Javascript developer)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haseeb049" alt="haseeb049" /></a> </p>
 
