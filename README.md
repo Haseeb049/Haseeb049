@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Rocket Chat](https://www.rocket.chat/)
 
-- 💬 Ask me about **react, node,typescript and blockchain**
+- 💬 Ask me about **react,next, node,typescript and blockchain**
 
 - 📫 How to reach me **ahmadhaseeb049@gmail.com**
 
