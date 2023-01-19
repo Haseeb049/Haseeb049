@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmadhaseeb049@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tqN6GIZ3-UDFEknwRMrcWJgoR63PPS55tHBTk_AXyIA/edit#](https://docs.google.com/document/d/1tqN6GIZ3-UDFEknwRMrcWJgoR63PPS55tHBTk_AXyIA/edit#)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I do not sleep**
 
