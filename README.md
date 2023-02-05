@@ -5,19 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Theia](https://theia.global/)
-
-- 🌱 I’m currently learning **decentralized application development**
 
 - 👯 I’m looking to collaborate on [Rocket Chat](https://www.rocket.chat/)
 
-- 💬 Ask me about **reactjs, nextjs, nodejs, typescript and blockchain**
+- 💬 Ask me about **reactjs, nextjs, nodejs, Nestjs, typescript and postgreSQL**
 
 - 📫 How to reach me **ahmadhaseeb049@gmail.com**
 
-- 📄 Know about my experiences 
 
-- ⚡ Fun fact **I do not sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
