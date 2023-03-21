@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Rocket Chat](https://www.rocket.chat/)
 
-- 💬 Ask me about **reactjs, nextjs, nodejs, Nestjs, typescript and postgreSQL**
+- 💬 Ask me about **reactjs, nextjs, nodejs,and typescript**
 
 - 📫 How to reach me **ahmadhaseeb049@gmail.com**
 
