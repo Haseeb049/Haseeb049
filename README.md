@@ -19,8 +19,9 @@
 
 
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
 </a>
+
 
 
 
